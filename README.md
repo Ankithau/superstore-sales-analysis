@@ -99,7 +99,7 @@ ORDER BY avg_profit DESC;
 
 - `superstore_queries.sql`: all SQL queries
 - `Superstore_Dashboard.pbix`: Power BI dashboard file
-- `dashboard.png`, `request3.png`, `request5.png`, `request7.png`: screenshots
+- `dashboard.png`, `loss_making_subcategories.png`, `discount_vs_profit.png`, `top_cities_by_sales.png`: screenshots
 
 ## Validation
 
